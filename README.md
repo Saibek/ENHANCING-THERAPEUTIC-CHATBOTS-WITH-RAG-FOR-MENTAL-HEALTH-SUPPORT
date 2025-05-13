@@ -1,4 +1,4 @@
-# ENHANCING-THERAPEUTIC-CHATBOTS-WITH-RAG-FOR-PERSONALIZED-MENTAL-HEALTH-SUPPORT
+# ENHANCING-THERAPEUTIC-CHATBOTS-WITH-RAG-FOR-MENTAL-HEALTH-SUPPORT
 
 This repository contains the code and evaluation data for a Retrieval-Augmented Generation (RAG) based chatbot designed for mental health counseling conversations.
 - `RAG Chatbot.ipynb` - Jupyter notebook implementing the RAG chatbot.
